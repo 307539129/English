@@ -1,0 +1,28 @@
+@article{higbibtex,
+  title={Stochastic resonance[J]},
+  author={Gammaitoni L,Hnnggi P,Jung P,et al},
+  journal={Reviews of modern physics},
+  volume={70},
+  number={1},
+  pages={223-287},
+  year={1998}
+}
+@article{higham1994bibtex,
+  title={The mechanism of stochastic resonance[J]},
+  author={Benzi R,2 Sutera A, Vulpiani A},
+  journal={Journal of Physics A: mathematical and general},
+  volume={14},
+  number={11},
+  pages={223-287},
+  year={1981}
+}
+
+@article{hibibtex,
+  title={Noise enhancement of information transfer in crayfish mechanoreceptors by stochastic resonance[J]},
+  author={Douglass J K,Wilkens L,Pantazelou E,et al},
+  journal={Nature},
+  volume={365},
+  number={6444},
+  pages={337},
+  year={1993}
+}
